@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
+
+[Deploy Create React App to Azure App Services](https://websitebeaver.com/deploy-create-react-app-to-azure-app-services)  
+[在 Visual Studio 中匯入發行設定，即可將應用程式發行至 Azure App Service](https://docs.microsoft.com/zh-tw/visualstudio/deployment/tutorial-import-publish-settings-azure?view=vs-2019)
+> 在 Azure 入口網站中開啟 Azure App Service > 移至 [ 取得發行設定檔 ]，並將設定檔儲存在本機
+
 
 ## Available Scripts
 
